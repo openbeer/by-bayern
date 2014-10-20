@@ -1,0 +1,38 @@
+
+- 1001 Beers Amber
+
+6-Korn Bier                 | Pyraser Landbrauerei   | Pyras (Thalmässing), Mittelfranken
+1612er Zwicklbier           | Hofbräuhaus Traunstein | Traunstein, Oberbayern
+Aecht Schlenkerla Rauchbier | Brauerei Schlenkerla   | Bamberg, Oberfranken
+Altbayrisch Dunkel          | Brauerei Schönram      | Schönram, Oberbayern
+Bischofshof Zoigl           | Brauerei Bischofshof   | Regensburg, Oberpfalz
+Drummer Dunkles Vollbier    | Brauerei Drummer       | Leutenbach, Oberfranken
+
+
+- 1001 Beers Blond
+
+Advents-Bier                 | Brauhaus Schweinfurt  | Schweinfurt, Unterfranken
+Augustiner Lagerbier Hell    | Augustiner Bräu       | München, Oberbayern
+Commerzienrat Riegele Privat | Brauhaus S. Riegele   | Augsburg, Schwaben 
+Edelstoff                    | Augustiner Bräu       | München, Oberbayern
+
+
+- 1001 Beers White
+
+Andechser Weissbier Hefetrüb | Klosterbrauerei Andechs | Andechs, Oberbayern
+Ayinger Ur-Weisse            | Brauerei Aying          | Aying, Oberbayern
+Bio-Dinkel Weisse            | Weißbräu Unertl         | Mühldorf am Inn, Oberbayern
+
+
+- 1001 Beers Dark
+
+Andechser Doppelbock Dunkel   | Klosterbrauerei Andechs | Andechs, Oberbayern
+Aventinus                     | Weisses Bräuhaus G. Schneider & Sohn | Kelheim, Niederbayern
+Aventinus Weizen-Eisbock      | Weisses Bräuhaus G. Schneider & Sohn | Kelheim, Niederbayern
+Celebrator                    | Brauerei Aying          | Aying, Oberbayern
+Plank Dunkler Weizenbock      | Brauerei Michael Plank  | Laaber, Oberpfalz
+
+
+- 1001 Beers Specialty
+
+
