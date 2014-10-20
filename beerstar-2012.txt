@@ -1,0 +1,120 @@
+
+- European-Style Dunkel
+
+Gold   | Brauerei S. Riegele               | Augsburg, Schwaben  | Riegele Aechtes Dunkel
+Bronze | Flötzinger Bräu Franz Steegmüller | Rosenheim,  | Flötzinger Bräu Dunkel Export 
+
+- European-Style Export
+
+Gold   | Kapplerbräu Hans Wiedemann    |  Altomünster, Oberbayern  | Kapplerbräu Export Hell  
+Silber | Privatbrauerei Schnitzlbaumer |  Traunstein, Oberbayern   | Export Hell 
+Bronze | Flötzinger Bräu Franz Steegmüller  | Rosenheim,   | Flötzinger Bräu Original Trachtler-Hoibe
+
+- European-Style Mild Lager
+
+Bronze | Brauhaus Altenkunstadt Andreas Leikeim | Altenkunstadt, Oberfranken  | Leikeim Lager Gold 
+
+- German-Style Doppelbock
+
+Bronze | Klosterbrauerei Weltenburg | Kelheim,  | Weltenburger Kloster Asam Bock 
+
+- German-Style Dunkler Bock
+
+Gold   |  Klosterbrauerei Baumburg | Altenmarkt a.d. Alz, Oberbayern | Baumburger Kloster Chorherren Bock
+
+- German-Style Festbier
+
+Silber | Aktienbrauerei Kaufbeuren  | Kaufbeuren, | Spezialbier Edel 
+
+- German-Style Heller Bock
+
+Bronze | Privatbrauerei Alwin Märkl | Freudenberg, Oberpfalz   |  Freudenberger Maibock
+
+- German-Style Helles/Lager
+
+Gold   | Guts-, und Brauereigenossenschaft Taufkirchen |  Taufkirchen/Vils,  Oberbayern |  Taufkirchner Hell 
+Silber | Privatbrauerei Hofmann | Pahres,   |  Hofmann "Helles-Landbier" 
+Bronze | Müllerbräu       | Pfaffenhofen, Oberbayern  |  Müllerbräu Altbayrisch Hell  
+
+- German-Style Kellerbier Dunkel
+
+Gold   | Private Landbrauerei Schönram  |  Schönram, Oberbayern   | Schönramer Altbayerisch Zwickel Dunkel  
+Silber | Brauerei Gasthof Eck   | Böbrach, Niederbayern  | Wilderer Dunkel   
+Bronze | Brauerei Leonhard Schübel  | Stadtsteinach, Oberfranken  |  Schübel A Fränkisch
+
+- German-Style Kellerbier Hell
+
+Gold   | Privatbrauerei Camba Bavaria  | Truchtlaching, Oberbayern  | Camba Export   
+Silber | Bürgerliches Brauhaus Wiesen  | Wiesen,                    | Wiesener Altfränkisches Landbier   
+Bronze | Landshuter Brauhaus           | Landshut,                  | Zwickl Bio Bier   
+
+- German-Style Kellerpils
+
+Gold   |  Thuisbrunner Elch-Bräu  |  Gräfenberg, Oberfranken   | Thuisbrunner Elch-Bräu Pils Naturbelassen
+
+
+- German-Style Leichtbier
+
+Gold    |  Schwarzbräu     |  Zusmarshausen, Schwaben   |  Schwarzbräu Light & Fit
+Bronze  |  Brauerei Greif  |  Forchheim, Oberfranken    |  Greif Leichtbier 
+
+- German-Style Märzen
+
+Silber  | Privatbrauerei Hofmühl   | Eichstätt, Oberbayern   |  Hofmühl Märzen Gold  
+Bronze  | Guts-, und Brauereigenossenschaft Taufkirchen |  Taufkirchen/Vils, Oberbayern, | Taufkirchner Fest-Märzen 
+
+- German-Style Pilsner
+
+Silber  |  Schlossbrauerei Autenried    | Ichenhausen, Schwaben    |  Autenrieder Pilsner
+Bronze  |  Klosterbrauerei Weltenburg   | Kelheim,                 |  Weltenburger Kloster Pils
+
+- Top Fermented Beer with Alternative Cereals
+
+Gold    |  Weissbräu Schwendl | Tacherting, Oberbayern    | Schalchner 5-Korn
+
+- Red and Amber Lager
+
+Gold   |  Eittinger Fischerbräu   | Eitting, Oberbayern   | Eittinger Kirta Bier
+Silber |  Gansbrauerei            | Neumarkt, Oberpfalz   | Gansbräu Rotbier Anno 1160
+
+- Smoked Beer
+
+Gold  | Brauerei-Gasthof Kundmüller  | Viereth-Trunstadt, Oberfranken  | Weiherer Rauch
+
+- South German-Style Hefeweizen Bernsteinfarben
+
+Gold   |  Brauerei Aying Franz Inselkammer | Aying, Oberbayern   |  Ayinger Urweisse
+Silber |  Felsenbräu Thalmannsfeld W. Gloßner   | Thalmannsfeld, Mittelfranken |  Kutscher-Halbe
+Bronze |  Lindenbräu Gräfenberg      | Gräfenberg, Oberfranken    |  Weizen
+
+- South German-Style Hefeweizen Dunkel
+
+Gold    |  Kitzmann Bräu   | Erlangen, Mittelfranken  |  Kitzmann Dunkles Weißbier
+Silber  |  Weißbräu Unertl | Mühldorf am Inn,         | Unertl Gourmet Weisse
+
+- South German-Style Hefeweizen Hell
+
+Bronze  | Landshuter Brauhaus  | Landshut,    |  Hefe Weisse
+
+- South German-Style Kristallweizen
+
+Bronze |  Weisses Bräuhaus G. Schneider & Sohn   | Kelheim,   | TAP 2 Mein Kristall
+
+- South German-Style Leichtes Weizen
+
+Gold    |  Müllerbräu  | Pfaffenhofen, Oberbayern  |  Müllerbräu Weißbier Leicht
+Silber  | Privatbrauerei Hofmühl  | Eichstätt, Oberbayern  |  Hofmühl Weissbier Leicht
+
+- South German-Style Weizenbock Dunkel
+
+Gold    |  Herrnbräu   | Ingolstadt,   |  Weizenbock
+Silber  |  Auerbräu    | Rosenheim,    |  Rosenheimer Weizenbock
+
+- South German-Style Weizenbock Hell
+
+Bronze  |  Felsenbräu Thalmannsfeld W. Gloßner  | Thalmannsfeld, Mittelfranken | Weizenbock
+
+- Ultra Strong Beer
+
+Silber  |  Brauhaus Faust   |  Miltenberg, Unterfranken   |  Eisbock
+
