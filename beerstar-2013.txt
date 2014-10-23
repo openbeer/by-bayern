@@ -1,112 +1,112 @@
 
 - European-Style Dunkel
 
-Gold   | St. Katharinenspitalstiftung  | Regensburg, Oberpfalz  | Spital Dunkel
-Silber | Brauerei S. Riegele           | Augsburg, Schwaben  | Riegele Aechtes Dunkles
-Bronze | Privatbrauerei Märkl          | Freudenberg, Oberpfalz  | Freudenberger Dunkel
+Gold    | Spital Dunkel            | St. Katharinenspitalstiftung  | Regensburg, Oberpfalz 
+Silber  | Riegele Aechtes Dunkles  | Brauerei S. Riegele           | Augsburg, Schwaben  
+Bronze  | Freudenberger Dunkel     | Privatbrauerei Märkl          | Freudenberg, Oberpfalz 
 
 - European-Style Export
 
-Gold   | Flötzinger Bräu Franz Steegmüller | Rosenheim, Oberbayern | Flötzinger Gold
-Silber | Brauerei S. Riegele        | Augsburg, Schwaben   | Riegele Würziges Export
-Bronze | Klosterbrauerei Baumburg   | Altenmarkt A.d. Alz, Oberbayern  | Kloster Export
+Gold   | Flötzinger Gold          | Flötzinger Bräu Franz Steegmüller | Rosenheim, Oberbayern 
+Silber | Riegele Würziges Export  | Brauerei S. Riegele        | Augsburg, Schwaben   
+Bronze | Kloster Export           | Klosterbrauerei Baumburg   | Altenmarkt A.d. Alz, Oberbayern 
 
 - European-Style Mild Lager
 
-Silber | Schlossbrauerei Hirschau | Hirschau, Oberpfalz | 1812 Original Helles Lager
+Silber | 1812 Original Helles Lager | Schlossbrauerei Hirschau | Hirschau, Oberpfalz 
 
 - German-Style Doppelbock
 
-Gold   | Brauerei S. Riegele      |  Augsburg, Schwaben | Riegele Speziator Dunkel
-Silber | Brauerei Wilhelm Krieger |  Landau a.d. Isar, Niederbayern | Krieger Floriani-Bock
-Bronze | Privatbrauerei Märkl     |  Freudenberg, Oberpfalz |  Freudenberger Märkator
+Gold    | Riegele Speziator Dunkel | Brauerei S. Riegele      |  Augsburg, Schwaben 
+Silber  | Krieger Floriani-Bock    | Brauerei Wilhelm Krieger |  Landau a.d. Isar, Niederbayern
+Bronze  | Freudenberger Märkator   | Privatbrauerei Märkl     |  Freudenberg, Oberpfalz
 
 - German-Style Dunkler Bock
 
-Silber  | Klosterbrauerei Baumburg | Altenmarkt a.d. Alz, Oberbayern | Chorherren Bock
+Silber  | Chorherren Bock | Klosterbrauerei Baumburg | Altenmarkt a.d. Alz, Oberbayern
 
 - German-Style Festbier
 
-Gold    | Müllerbräu      |  Pfaffenhofen, Oberbayern | Müllerbräu Festbier
-Silber  | Brauerei Greif  |  Forchheim, Oberfranken   | Greif-Anna-Festbier
-Bronze  | Aktienbrauerei Kaufbeuren |  Kaufbeuren, Schwaben  | Aktien Edel
+Gold     | Müllerbräu Festbier | Müllerbräu      |  Pfaffenhofen, Oberbayern 
+Silber   | Greif-Anna-Festbier | Brauerei Greif  |  Forchheim, Oberfranken  
+Bronze   | Aktien Edel  | Aktienbrauerei Kaufbeuren |  Kaufbeuren, Schwaben 
 
 - German-Style Heller Bock
 
-Gold    | Brauerei S. Riegele | Augsburg, Schwaben  | Riegele Speziator Hell
+Gold      | Riegele Speziator Hell  | Brauerei S. Riegele | Augsburg, Schwaben
 
 - German-Style Helles/Lager
 
-Gold    | Hohenthanner Schlossbrauerei | Hohenthann, Niederbayern   | Tannen Hell
-Silber  | Flötzinger Bräu Franz Steegmüller | Rosenheim, Oberbayern | Flötzinger Hell
+Gold     | Tannen Hell      | Hohenthanner Schlossbrauerei | Hohenthann, Niederbayern 
+Silber   | Flötzinger Hell  | Flötzinger Bräu Franz Steegmüller | Rosenheim, Oberbayern
 
 - German-Style Kellerbier Dunkel
 
-Silber  | Bürgerliches Brauhaus Wiesen |  Wiesen, Unterfranken  | Wiesener Kellerbier
-Bronze  | Brauerei Gasthof Eck | Böbrach, Niederbayern | Wilderer Dunkel
+Silber  | Wiesener Kellerbier | Bürgerliches Brauhaus Wiesen |  Wiesen, Unterfranken 
+Bronze  | Wilderer Dunkel     | Brauerei Gasthof Eck | Böbrach, Niederbayern 
 
 - German-Style Kellerbier Hell
 
-Silber |  Hohenthanner Schlossbrauerei | Hohenthann, Niederbayern |  Hohenthanner Kellerbier
-Bronze |  Aktienbrauerei Kaufbeuren    | Kaufbeuren, Schwaben     |  Kellerbier
+Silber  |  Hohenthanner Kellerbier  |  Hohenthanner Schlossbrauerei | Hohenthann, Niederbayern
+Bronze  |  Kellerbier               |  Aktienbrauerei Kaufbeuren    | Kaufbeuren, Schwaben    
 
 - German-Style Leichtbier
 
-Gold   | Private Landbrauerei Schönram | Petting/Schönram, Oberbayern | Surtaler Leicht
-Bronze | Schwarzbräu                   | Zusmarshausen, Schwaben      | Schwarzbräu Light & Fit
+Gold    | Surtaler Leicht          | Private Landbrauerei Schönram | Petting/Schönram, Oberbayern
+Bronze  | Schwarzbräu Light & Fit  | Schwarzbräu                   | Zusmarshausen, Schwaben     
 
 - German-Style Märzen
 
-Gold   |  Frankenwälder Brauhaus | Naila, Oberfranken  |  Ahornberger Landbier Märzen
-Silber |  Engelbräu Rettenberg Hermann Widenmayer | Rettenberg, Schwaben  | Engelbräu Jubiläums Bier
-Bronze | Hohenthanner Schlossbrauerei | Hohenthann, Niederbayern  |  Hohenthanner Fest Märzen
+Gold    |  Ahornberger Landbier Märzen  |  Frankenwälder Brauhaus | Naila, Oberfranken 
+Silber  | Engelbräu Jubiläums Bier      |  Engelbräu Rettenberg Hermann Widenmayer | Rettenberg, Schwaben 
+Bronze  |  Hohenthanner Fest Märzen     | Hohenthanner Schlossbrauerei | Hohenthann, Niederbayern 
 
 - German-Style Pilsner
 
-Silber | Schlossbrauerei Autenried | Ichenhausen, Schwaben |  Autenrieder Pilsner
-Bronze | Privatbrauerei Hofmann    | Pahres, Mittelfranken |  Hofmann Pils 
+Silber |  Autenrieder Pilsner | Schlossbrauerei Autenried | Ichenhausen, Schwaben
+Bronze |  Hofmann Pils        | Privatbrauerei Hofmann    | Pahres, Mittelfranken 
 
 - Top Fermented Beer with Alternative Cereals
 
-Gold   | Neumarkter Lammsbräu  | Neumarkt i.d. Opf., Oberpfalz | Neumarkter Lammsbräu Dinkel 
-Bronze | Weissbräu Schwendl    | Tacherting, Oberbayern        | Schalchner 5-Korn     
+Gold   | Neumarkter Lammsbräu Dinkel  | Neumarkter Lammsbräu  | Neumarkt i.d. Opf., Oberpfalz
+Bronze | Schalchner 5-Korn            | Weissbräu Schwendl    | Tacherting, Oberbayern        
 
 - South German-Style Hefeweizen Bernsteinfarben
 
-Silber | König Ludwig Schloßbrauerei Kaltenberg |  Fürstenfeldbruck, Oberbayern  | König Ludwig Weißbier Dunkel
-Bronze | Landshuter Brauhaus  | Landshut, Niederbayern  | Hochzeitsweisse  
+Silber | König Ludwig Weißbier Dunkel  | König Ludwig Schloßbrauerei Kaltenberg |  Fürstenfeldbruck, Oberbayern 
+Bronze | Hochzeitsweisse               | Landshuter Brauhaus  | Landshut, Niederbayern  
 
 - South German-Style Hefeweizen Dunkel
 
-Gold   | Brauerei Greif  |  Forchheim, Oberfranken  | Greif-Weizen Dunkel  
-Silber | Schwarzbräu     |  Zusmarshausen, Schwaben | Schwarzbräu Weissbier Dunkel 
-Bronze | Auerbräu        |  Rosenheim, Oberbayern   | Johann Auer Rosenheimer Dunkle Weiße 
+Gold   | Greif-Weizen Dunkel                     | Brauerei Greif  |  Forchheim, Oberfranken  
+Silber | Schwarzbräu Weissbier Dunkel            | Schwarzbräu     |  Zusmarshausen, Schwaben  
+Bronze | Johann Auer Rosenheimer Dunkle Weiße    | Auerbräu        |  Rosenheim, Oberbayern   
 
 - South German-Style Hefeweizen Hell
 
-Gold   | Staffelberg-Bräu  | Bad Staffelstein-Loffeld, Oberfranken  | Staffelberg-Bräu Hefe Weißbier 
-Silber | Flötzinger Bräu Franz Steegmüller | Rosenheim, Oberbayern  | Flötzinger Weißbier Hell 
+Gold    | Staffelberg-Bräu Hefe Weißbier  | Staffelberg-Bräu  | Bad Staffelstein-Loffeld, Oberfranken  
+Silber  | Flötzinger Weißbier Hell        | Flötzinger Bräu Franz Steegmüller | Rosenheim, Oberbayern 
 
 - South German-Style Kristallweizen
 
-Bronze |  Weisses Bräuhaus G. Schneider & Sohn | Kelheim, Niederbayern | Schneider Weisse TAP 2 Mein Kristall 
+Bronze  | Schneider Weisse TAP 2 Mein Kristall   |  Weisses Bräuhaus G. Schneider & Sohn | Kelheim, Niederbayern
 
 - South German-Style Leichtes Weizen
 
-Silber | Brauerei S. Riegele   | Augsburg, Schwaben  | Commerzienrat Riegele's Leichte Weisse 
-Bronze | Weißbräu Unertl      | Mühldorf am Inn, Oberbayern | Unertls Leichte Weisse 
+Silber  | Commerzienrat Riegele's Leichte Weisse    | Brauerei S. Riegele   | Augsburg, Schwaben  
+Bronze  | Unertls Leichte Weisse                    | Weißbräu Unertl      | Mühldorf am Inn, Oberbayern
 
 - South German-Style Weizenbock Dunkel
 
-Gold    |  Mahrs Bräu Bamberg | Bamberg, Oberfranken   | Der Weisse Bock 
-Silber  |  Silver Weisses Bräuhaus G. Schneider & Sohn |  Kelheim, Niederbayern | Schneider Weisse TAP 6 Unser Aventinus 
-Bronze  | Weissbräu Schwendl | Tacherting, Oberbayern  | Schalchner Weisser Bock
+Gold    | Der Weisse Bock  |  Mahrs Bräu Bamberg | Bamberg, Oberfranken  
+Silber  | Schneider Weisse TAP 6 Unser Aventinus  |  Silver Weisses Bräuhaus G. Schneider & Sohn |  Kelheim, Niederbayern 
+Bronze  | Schalchner Weisser Bock  | Weissbräu Schwendl | Tacherting, Oberbayern  
 
 - South German-Style Weizenbock Hell
 
-Bronze |  Bayerische Staatsbrauerei Weihenstephan | Freising, Oberbayern  | Weihenstephaner Vitus
+Bronze | Weihenstephaner Vitus  |  Bayerische Staatsbrauerei Weihenstephan | Freising, Oberbayern  
 
 - Ultra Strong Beer
 
-Silber |  Brauhaus Faust | Miltenberg, Unterfranken  | Eisbock
+Silber   | Eisbock  |  Brauhaus Faust | Miltenberg, Unterfranken
 
