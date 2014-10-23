@@ -1,0 +1,464 @@
+
+
+- Aktienbrauerei Kaufbeuren
+G    Dunkles Weizen Steingadener
+G    Bayrisch Export
+G    Hefeweizen Anno 25
+S    Aktien Hell
+S    Leichtes Weizen Kaiser Maximilian I.  
+S    Kellerbier Hell
+B    Jubiläums Pils
+B    Spezialbier Edel
+
+- Allgäuer Brauhaus
+G    Grotwerg Bayerisch Dunkel
+G    Büble Edelweißbier
+G    Büble Bier Urbayrisch dunkel
+G    Büble Bier Edel
+G    Liebenweiss Hefeweissbier
+B    Büble Bier Bayrisch Hell
+
+- Anton Pöllinger Brauerei
+G    Pöllinger Helles
+G    Pöllinger Weissbier
+S    Pöllinger Zwickl
+
+- Arcobräu Gräfliches Brauhaus
+G    Arcobräu Weissbier hell
+G    Arcobräu Schloss hell
+G    Arcobräu Urfass
+G    Arcobräu Zwicklbier
+G    Arcobräu Weissbier dunkel
+S    Arcobräu Schloss Dunkel
+
+- AuerBräu
+G    Rosenheimer Weizenbock
+G    Rosenheimer Pils
+G    Rosenheimer Hell
+G    Thurn und Taxis Roggen
+G    Rosenheimer Hefe Weißbier
+G    Johann Auer Rosenheimer Dunkle Weisse
+G    Rosenheimer Bajuwaren Dunkel
+G    Rosenheimer Herbstfestmärzen
+
+- Bayerische Löwenbrauerei Franz Stockbauer
+G    Stockbauer Weisse Original
+
+- Brauerei Aldersbach Frhr. v. Aretin
+G    Aldersbacher Kloster Weisse Hell  
+G    Aldersbacher Festbier
+G    Aldersbacher Freiherrn Pils
+
+- Brauerei Bischofshof
+G    Bischofshof Urhell
+G    Bischofshof Hefe-Weißbier Hell
+G    Bischofshof Original 1649
+
+- Brauerei Blauer Löwe Gemeiner
+S    Blauer Löwe Weißbier
+
+- Brauerei C. Wittmann
+G    Wittmann Hefe-Weisse  
+G    Wittmann Urhell
+G    Wittmann Schwarz-Weisse
+S    Wittmann Extra Pils
+
+- Brauerei Göller "Zur Alten Freyung"
+G    Göller Original 
+G    Göller Steinhauer Weisse
+
+- Brauerei Hacklberg
+G      Hacklberg Urhell  
+G      Hacklberg Jakobi Weißbier Hell
+G      Hacklberg Hochfürst Pilsener
+G      Hacklberg Edelhell Export
+G      Hacklberg Festbier
+
+- Brauerei Horneck
+S      Hallertauer Hopfentrunk Hell
+
+- Brauerei Josef Greif
+G      Greif Bräu Hell   
+G      Greif Bräu Weisse Hefeweizen hell
+G      Greif Bräu Edel-Pils
+
+- Brauerei Mühlbauer
+S      Mühlbauer Edel-Hell
+
+- Brauerei Röhrl
+G      Straubinger Weisse Original
+
+- Brauerei Usterbach
+G      Ustersbacher Festbier   
+G      Ustersbacher Ustator
+G      Ustersbacher Urhell
+G      Staudenland Helles Export
+G      Ustersbacher Edel Export
+G      Reischenau Gold
+G      Ustersbacher Jubiläumsbier 400 Jahre
+G      Ustersbacher Privat Pils
+G      Ustersbacher Leichte Weisse
+G      Ustersbacher Bayerisch Hefeweizen
+G      Ustersbacher Dunkle Weisse
+G      Ustersbacher Altbayerisch Dunkles
+
+- Brauerei Wasserburger
+G      Hefe Weißbier
+S      Hefe Weißbier Dunkel
+
+- Brauerei Wilhelm Krieger
+G      Krieger Hell   
+G      Krieger Weissbier
+
+- Brauhaus Altenkunstadt Andreas Leikeim
+G      Leikeim Premium   
+G      Leikeim Landbier
+
+- Brauhaus Faust
+G      Faust Weizen Hefe Hell
+
+- Brauhaus S. Riegele
+G      Augsburger Herren Pils   
+G      Riegele Würziges Export
+G      Lauterbacher Weissbier Hell
+G      Lauterbacher Stephanie Weisse
+G      Commerzienrat Riegele's Leichte Weisse
+G      Riegele Kellerbier
+G      Lauterbacher Brotzeit Bier
+G      Riegele Aechtes Dunkel
+G      Commerzienrat Riegele Privat
+G      Riegele's Augustus Weizendoppelbock
+G      Commerzienrat Riegele's Alte Weisse
+G      Commerzienrat Riegele's Weisse
+G      Riegele Feines Urhell
+
+- Brauhaus Schweinfurt
+G      Brauhaus Weißbier
+
+- Braumanufactur Alt-Bamberg
+G      Alt-Bamberg Urstoff   
+S      Alt-Bamberg Dunkel
+G      Alt-Bamberg Weißbier
+G      Alt-Bamberg Weißbier Alkoholfrei
+S      Alt-Bamberg Zwickl
+
+- Bräu Im Moos Eugen Münch
+S      Edel-Pils   
+S      Export Hell
+
+- Bürgerbräu Bad Reichenhall
+G      Gustl   
+G      Unser Bürgerbräu Leichte Weisse
+G      Unser Bürgerbräu Export
+G      Unser Bürgerbräu Hefe-Weizen
+G      Alpenstoff-Das Bier der Berge
+
+- Eder & Heylands Brauerei
+G      Schlappeseppel Export   
+G      Schlappeseppel Hefe Weißbier
+
+- Engelbräu Rettenberg Hermann Widenmayer
+S      Engelbräu Grünten-Gold
+
+- Familienbrauerei Jacob
+G      Jacob Export   
+G      Jacob Naturtrübes Weissbier
+G      Jacob Altbayerisch Hell
+
+- Flötzinger Brauerei
+G      Flötzinger Weihnachts-Bock   
+G      Josefi Bock
+G      1543 Hefe-Weisse Kellertrüb
+G      Stadlerbräu Fridolfing Dunkle Weisse
+G      Stadlerbräu Fridolfing Hell
+G      Flötzinger Bräu Hell
+G      Flötzinger Bräu Weizen Hell
+G      Flötzinger Bräu Leichte Weisse
+G      Flötzinger Bräu Gold Export
+G      Flötzinger Bräu Export Dunkel
+G      Flötzinger Bräu Weizen Dunkel
+G      Stadlerbräu Fridolfing Hefe-Weisse
+G      Flötzinger Bräu Wies'nbier Märzenbier
+G      Bierbichler Weißbier
+
+- Frankenwälder Brauhaus
+G      Ahornberger Bärentrunk Landbier dunkel
+S      Ahornberger Landbier würzig
+
+- Gampertbräu Gebr. Gampert
+G      Förster-Gold
+G      Förster-Pils
+G      Förster-Weisse
+
+- Getränke Penzkofer
+G      Waldschmidt Das Helle
+
+- Gottsmannsgrüner Brauerei
+G      Gottsmannsgrüner Pils
+
+- Heller-Bräu Trum KG "Schlenkerla"
+S      Aecht Schlenkerla Rauchbier Märzen
+
+- Herrnbräu
+G      Herrnbräu Römergold Export hell   
+G      Herrnbräu Tradition Festbier
+G      Herrnbräu Hefe Weißbier Hell
+G      Herrnbräu Premium Pils edelherb
+
+- Hochstiftliches Brauhaus in Bayern
+G      Original Bayerisch Malz   
+G      Will Pils de Luxe
+S      Will-Bräu Urtyp Hell
+
+- Hofbräuhaus Traunstein
+G      HB Fastenbock   
+G      Oh, du mein Josef
+G      Maximilian sei stark
+G      HB Helles
+G      HB Weißbier
+G      HB Dunkel
+
+- Hofmark-Brauerei
+S      Hofmark Original Weisse
+
+- Hohenthanner Schlossbrauerei
+G      Hohenthanner Hefe-Weißbier
+S      Hohenthanner Tannen Hell   
+
+- Hösl & Co Brauhaus
+G      Communbräu-Zoigl
+
+- Kaiser Bräu
+G      Veldensteiner Landbier   
+G      Veldensteiner Pils
+G      Veldensteiner Lager
+G      Veldensteiner Weißbier
+G      Veldensteiner Zwickl
+
+- Kaiserdom Specialitäten Brauerei Bamberg
+G      Kaiserdom Dark   
+G      Kaiserdom Pilsener
+G      Kaiserdom Hefe- Weißbier
+
+- Kauzen-Bräu
+G      Kauzen Weissbier Hell   
+G      Kauzen Weissbier Dunkel
+S      Kauzen Kellerbier naturtrüb
+S      Kauzen Premium Pils
+
+- Kloster-Brauerei Weltenburg
+G      Weltenburger Kloster Barock Dunkel   
+G      Weltenburger Hefe-Weißbier Hell   
+G      Weltenburger Kloster Urtyp Hell
+G      Weltenburger Kloster Anno 1050
+
+- Klosterbrauerei Kemnath
+S      Kloster hell
+
+- Landshuter Brauhaus
+G      Hochzeits-Weisse   
+G      Hochzeitsbier
+G      Hefe-Weiße
+B      Brauhaus Hell
+
+- Maierbräu
+G      Export Hell   
+S      Alto-Dunkel
+G      Mensch Maier
+G      Bockerl Bier
+G      Landler Weisse
+
+- Martinsbräu Marktheidenfeld
+G      Skt. Martinus Weizen Hefe hell   
+S      Skt. Martinus Zwickl Kellerbier
+
+- Müllerbräu Neuötting
+G      Festus
+G      Altbayrisch Hell
+G      Müllerbräu Gold Export
+G      Müllerbräu Helle Weiße
+G      Müllerbräu Dunkle Weisse
+S      Müller Weißbier Premium   
+S      Müller Weißbier Leicht
+S      Neuöttinger Export   
+S      U-Unfiltriert
+
+- Nordbräu Ingolstadt
+G      Kellerbier naturtrüb   
+G      Privat-Pilsener
+G      Urtyp Hell
+G      Urtyp Dunkel
+G      '93er Naturtrübes Hefeweizen
+G      Schanzer Weiße
+
+
+- Oettinger Brauerei
+G      Original Oettinger Hell
+
+- Privat-Brauerei Zötler
+G      Zötler Bier alkoholfrei
+
+- Privatbrauerei M. C. Wieninger
+G      Wieninger Hefe Weißbier
+S      Wieninger Teisendorfer Hell   
+S      Wieninger Ruperti Pils
+
+- Privatbrauerei Hofmühl
+G      Hofmühl Weissbier
+G      Hofmühl Weissbier Leicht
+S      Hofmühl Privat Pils   
+
+- Privatbrauerei J.B. Falter Regen
+G      Weißbier Premium Gold   
+G      Export hell
+
+- Privatbrauerei Streck-Bräu
+G      Streck's Weizen Naturtrüb
+S      Burgherren Pils   
+
+- Püls-Bräu
+G      Weismainer Krone Pils   
+G      Weismainer Original 1798er Kellertrunk
+G      Weismainer Weisse
+B      Weismainer Premium
+
+- Rother Bräu Bayerische Exportbierbrauerei
+G      Pils Feinherb   
+G      Öko Urtrunk
+G      Kloster Urstoff
+S      Öko Ur-Weizen
+
+- Scherdel Bier
+G      Scherdel Schlappenbier
+S      Scherdel Edelhell   
+S      Scherdel Premium Pilsner
+
+- Schlossbrauerei Autenried
+G      Autenrieder Dunkles Weizen
+G      Autenrieder Urtyp Dunkel
+G      Autenrieder Urtyp Hell
+G      Autenrieder Weizen
+S      Autenrieder Pilsner   
+S      Autenrieder Ernte Weizen
+
+- Schloßbrauerei Maxlrain
+G      Maxlrainer Schloss Gold   
+G      Maxlrainer Aiblinger Schwarzbier
+G      Maxlrainer Leo Weisse
+G      Maxlrainer Zwickl Max
+G      Maxlrainer Schloss Trunk
+G      Maxlrainer Kirtabier Märzen
+G      Maxlrainer Schloss Weisse
+G      Maxlrainer Helles
+G      Maxlrainer Pils
+G      Maxlrainer Festbier
+G      Maxlrainer Jubilator
+
+- Schloßbrauerei Reuth
+G      Reuther Schloßpils   
+G      Reuther Lager
+G      Reuther Weißbier
+
+- Schloßbrauerei Stein Wiskott
+G      Steiner Export
+G      Heinz vom Stein Hefeweissbier Dunkel
+G      Steiner Chiemgau Urdunkel
+S      Steiner Chiemgau Hell   
+
+-   Schloßbrauerei Unterbaar Albrecht Freiherr Groß von Trockau
+G      Unterbaarer Dunkles Weizen
+G      Unterbaarer Paarthaler Leichtes Weizen
+G      Unterbaarer Hefe Weizen
+G      Unterbaarer Naturtrübes Hefeweizen
+G      Unterbaarer Dunkel
+S      Unterbaarer Anno 2000
+S      Unterbaarer Meister Pils 
+
+- Schwarzbräu
+G      Schwarzbräu Feines Helles   
+G      Schwarzbräu Dunkel
+G      Schwarzbräu Exquisit
+G      Schwarzbräu Urtyp
+G      Schwarzbräu Weissbier Hell
+G      Schwarzbräu Weissbier Dunkel
+G      Schwarzbräu Schweden Weizen
+G      Schwarzbräu Schneeböckchen
+S      Schwarzbräu Light & Fit
+S      Schwarzbräu Pilsener
+S      Schwarzbräu Schneeflöckchen
+S      Schwarzbräu Schweden Pils
+S      Schwarzbräu Bayerisch Hell
+
+- Spessart-Brauerei
+S      Spessart Premium Pils   
+S      Spessart Hefe-Weizen Hell
+S      Spessart Räuberchen schwarz
+
+- St. Erhard
+S      St. Erhard Kellerbier
+
+- Tucher Bräu
+G      Tucher Helles Hefe Weizen   
+G      Tucher Urbräu hell
+G      Tucher Pilsener
+G      Tucher Urfränkisch dunkel
+
+- Wildbräu Grafing
+G      Wildbräu Hefe Weisse
+
+- Wolferstetter Bräu
+G      Wolferstetter Export Hefe Weizen   
+S      Wolferstetter Josef Groll Pils
+G      Wolferstetter Edel Hell
+G      Wolferstetter Dunkles Weizen
+G      Wolferstetter Dunkel Spezial
+S      Wolferstetter Festbier
+S      Wolferstetter Leichtes Weizen
+
+- Würzburger Hofbräu
+G      Würzburger Hofbräu Pilsner   
+
+
+
+- Netto Marken-Discount   #### move to other supermarket brand ???
+G      Grafensteiner Hell
+G      Grafensteiner Pils
+G      Meisterfels Pilsener
+S      Grafensteiner Pils
+G      Grafensteiner Alt
+G      Schloss Premium Pils
+G      Falkenfelser Premium Hell
+S      Schloss Premium Pils
+S      Grafensteiner Export
+S      Grafensteiner Pils
+G      Grafensteiner Hell
+S      Schloss Edel
+G      Grafensteiner Export
+S      Grafensteiner Hell
+G      Falkenfelser Premium Export
+S      Schloss Hefeweizen
+S      Falkenfelser Premium Weissbier Leicht
+G      Falkenfelser Premium Pilsener
+G      Schloss Hell
+S      Falkenfelser Premium Weissbier Hell
+G      Schloss Hefeweizen
+
+- Norma Lebensmittelfilialbetrieb Stiftung  #### move to other supermarket brand ???
+G      Kaiserkrone Gold
+G      Burgkrone Premium Pilsener
+G      Burgkrone Helles
+S      Burgkrone Hefe-Weißbier
+G      Burgkrone Premium Pilsener
+G      Burgkrone Hell
+G      Burgkrone Premium Pilsener
+G      Klosterhof Pilsener Premium
+G      Kaiserkrone extra 6,0
+G      Kaiserkrone Hefe-Weißbier
+G      Burgkrone Premium Pilsener
+G      Burgkrone Premium Pilsener
+S      Kaiserkrone Premium Pils
+G      St. Alpine Österreichisches Märzenbier
+G      Kaiserkrone Premium Pils
+S      Burgkrone Pilsener
+G      Burgkrone Hefe-Weißbier
+
