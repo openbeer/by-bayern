@@ -1,0 +1,41 @@
+
+## list of -ator starkbier from munich and around
+
+
+Aloisiator   |  Brauerei Alois        |  Pfarrkirchen
+Animator     |  Hacker-Pschorr        |  München
+Apostulator  |  Eichbaum Brauerei     |  Mannheim
+Aviator      |  Airbräu               |  München, Oberbayern
+Bambergator  |  Brauerei Fässla       |  Bamberg, Oberfranken
+Bavariator   |  Müllerbräu            |  Pfaffenhofen
+Celebrator   |  Aying (Franz Inselkammer) |  Aying
+Cervator     |  Hirschbrauerei        |  Günzburg
+Coronator    |  Brauerei zur Krone    |  Tettnang
+Delicator    |  Hofbräu München       |  München     ## NOTE: no longer available; discontinued
+Equator      |  Rößlebrauerei Alois Hempfer      |  Laupheim    # NOTE: move to history - no longer exists
+Fuchsikator  |  Brauerei Fuchsbüchler |  Palling
+Hofator      |  Hofer Bierbrauerei Deiningen-Kronenbräu |  Hof
+Honorator      |  Ingobräu Ingolstadt            |  Ingolstadt
+Impulsator     |  Privatbrauerei M. C. Wieninger |  Teisendorf
+Josefator      |  Brauerei Josef Bachmayer's Nachf. | Dorfen
+Jubilator      |  Schloßbrauerei Maxlrain        |  Tuntenhausen
+Kulminator     |  EKU Actienbrauerei             |  Kulmbach
+Maximator      |  Augustiner Bräu Wagner         |  München
+Multiplikator  |  Edelweißbrauerei Odelzhausen   |  Odelzhausen
+Optimator      |  Spaten-Franziskaner-Bräu       |  München       ## NOTE: no longer available; discontinued
+Operator       |  Schloßbrauerei Odelzhausen  |  Odelzhausen
+Palmator       |  Brauerei Heinrich Prößl     |  Pettendorf
+Pfaffenator    |  Brauerei K. Stöttner        |  Mallersdorf
+Poculator      |  Patrizier Bräu              |  Nürnberg
+Rariator       |  Münzbräu                    |  Günzburg
+Renator        |  Weißbräu Freilassing        |  Freilassing
+Rhönator       |  Rother-Bräu                 |  Roth b. Nbg.
+Salvator       |  Paulaner-Brauerei           |  München
+Spekulator     |  Weissbräu Jodlbauer         |  Rotthalmüster
+Speziator      |  Brauerei S. Riegele         |  Augsburg
+Steinator      |  Schloßbraueei Stei-Wiskott  |  Bad Reichenhall
+Suffikator     |  Bürgerbräu Röhm & Söhne     |  Bad Reichenhall
+Sympathor      |  Postbräu                    |  Thannhausen
+Triumphator    |  Löwenbräu                   |  München
+Unimator       |  Unionsbräu Haidhausen       |  München
+

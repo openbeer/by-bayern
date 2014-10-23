@@ -6,7 +6,7 @@ ______________________________
 - München
 
 ## big six - Spatenbräu, Augustiner, Paulaner, Hacker-Pschorr, Hofbräu, Löwenbräu
-## -- Franziskaner???
+##  NOTE: Franziskaner is a (weizenbier) brand of Spaten (Spaten-Franziskaner)
 
 [augustiner]
   Augustiner Bräu München|Augustiner Bräu, 1328
