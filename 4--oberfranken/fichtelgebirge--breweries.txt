@@ -10,10 +10,8 @@
 # --------------
 # -- Bayreuth
 
-[maisel]  
-  Brauerei Gebr. Maisel, 1887
-  Hindenburgstraße 9 // 95445 Bayreuth
-  www.maisel.com
+
+# NOTE: Brauerei Gebr. Maisel, 1887    => see 100_000+
 
 [bayreutherbierbrauerei]
   Bayreuther Bierbrauerei,  1857
