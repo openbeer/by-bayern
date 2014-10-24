@@ -8,6 +8,11 @@
 # -------------
 # -- Bamberg
 
+
+## NOTE: see 100_000+
+## [kaiserdom]
+##  Kaiserdom Specialitäten-Brauerei
+
 [ambraeusianum]
   Ambräusianum|Gasthausbrauerei Ambräusianum, 2004     ## 1. Gasthausbrauerei in Bamberg
   Dominikanerstraße 10 // 96049 Bamberg
