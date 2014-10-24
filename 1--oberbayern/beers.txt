@@ -298,7 +298,7 @@ Die Brauwerkstatt Big Foot, 7.7%
 
 
 ___________________________________________________
-- Unertl Weißbier, Haag
+- Unertl Weißbier |  Haag
 
 Unertl Weissbier Original, 4.8%, weizen
 Unertl Leichte Weisse, weizen
@@ -306,4 +306,17 @@ Unertl Leichte Weisse, weizen
 Unertl Ursud (Erinnerungstrunk), 5.8%
 Unertl Weissbier Bock, weizenbock, 6.7%
 
+
+_________________________________________
+- Weißbierbrauerei Hopf | Miesbach
+
+Hopf Helle Weiße, 5.3%, 12.7°
+Hopf Dunkle Weiße, 5.0%, 12.8°
+
+
+_________________________________________
+- Wampenbräu  |  Bichl
+
+Wampenbräu Amber Ale,     5.4%, 13.4°, amber_ale
+Wampenbräu Centalaxy IPA, 7.5%, 17.2°
 
