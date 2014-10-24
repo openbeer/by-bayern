@@ -36,22 +36,6 @@ Mönchshof Weihnachtsbier
 Mönchshof Weihnachtsbock, bock
 
 
-_________________________________________
-- Brauerei Gebrüder Maisel, Bayreuth
-
-Maisel's Dampfbier, dampfbier
-Maisel's Weisse Dunkel, weizen
-Maisel's Weisse Hell, weizen
-Maisel's Weisse Kristall, weizen
-Maisel's Weisse Light, weizen
-Maisel's Weisse Original, weizen
-
-Bayreuther Bio-Weisse Naturtrüb, weizen
-
-Edelhopfen Diät-Pilsner, pils
-Edelhopfen Extra-Pilsner Premium, pils
-
-
 __________________________________________
 - Privatbrauerei Leikeim, Altenkunstadt
 
