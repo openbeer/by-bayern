@@ -11,7 +11,9 @@
 # -- Bayreuth
 
 
-# NOTE: Brauerei Gebr. Maisel, 1887    => see 100_000+
+# NOTE:  see 100_000+
+# [maisel]
+#  Brauerei Gebr. Maisel, 1887    
 
 [bayreutherbierbrauerei]
   Bayreuther Bierbrauerei,  1857
