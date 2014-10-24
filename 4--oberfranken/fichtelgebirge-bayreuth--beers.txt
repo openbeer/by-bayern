@@ -2,19 +2,22 @@
 ___________________________________
 - Brauerei Gebr. Maisel | Bayreuth
 
-Maisel's Weisse Original
-Maisel's Weisse Light
-Maisel's Weisse Dunkel
-Maisel's Weisse Hell
-Maisel's Weisse Kristall
+Maisel's Weisse Original, weizen
+Maisel's Weisse Light, weizen
+Maisel's Weisse Kristall, weizen
+Maisel's Weisse Dunkel, weizen
+Maisel's Weisse Hell, weizen
 Maisel's Pilsner
-Edelhopfen Diät-Pilsner
+
+Edelhopfen Diät-Pilsner, pils
+Edelhopfen Extra-Pilsner Premium, pils
+
+Maisel's Dampfbier, dampfbier       ## available? exists?
 
 Stefan's Indian Ale
 Jeff's Bavarian Ale
 Marc's Chocolate Bock
 
-Bayreuther Bio Weisse
 
 _______________________________________
 - Bayreuther Bierbrauerei | Bayreuth
@@ -31,7 +34,7 @@ Bayreuther Bock   ## ab Ende Oktober
 ________________________________________
 - Bayreuther Bio-Brauer | Bayreuth
 
-Bio-Weisse
+Bio-Weisse|Bayreuther Bio-Weisse Naturtrüb, weizen
 
 ____________________________________
 - Becher-Bräu | Bayreuth
