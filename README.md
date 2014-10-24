@@ -1,5 +1,13 @@
 # Beers, Breweries n Brewpubs in Bayern (BY), Deutschland / Baviria, Germany
 
+- [Oberbayern](1--oberbayern) (München, Ingolstadt, Rosenheim, Freising) [Upper Baviria]
+- [Niederbayern](2--niederbayern) (Landshut, Passau, Straubing, Deggendorf) [Lower Baviria]
+- [Oberpfalz](3--oberpfalz) (Regensburg, Amberg, Weiden, Neumarkt) [Upper Palatinate]
+- [Oberfranken](4--oberfranken)  (Bayreuth, Bamberg, Hof, Coburg) [Upper Franconia]
+- [Mittelfranken](5--mittelfranken) (Nürnberg, Fürth, Erlangen, Ansbach) [Middle Franconia]
+- [Unterfranken](6--unterfranken) (Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen) [Lower Franconia]
+- [Bayr.Schwaben/Allgäu](7--schwaben) (Augsburg, Kempten,  Neu-Ulm, Kaufbeuren) [Swabia]
+
 
 Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Baviria, Germany) / Europe.
 Example:
