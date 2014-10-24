@@ -9,6 +9,16 @@
     Pils
     Maximator
 
+- Paulaner | München
+
+    Hefe-Weissbier Naturtrüb
+    Salvator
+
+- Hacker-Pschorr | München
+
+    Oktoberfest Märzen
+    Animator
+
 - Crew AleWerkstatt | München
 
     Crew Pale Ale
@@ -87,8 +97,41 @@
     Schloss Trunk
     Jubilator
 
+- Klosterbrauerei Reutberg | Sachsenkam
 
+    Reutberger Export Hell
+    Reutberger Export Dunkel
+    Reutberger Josefi-Bock
 
+- Landbrauerei Schönram | Schönram (Petting)
 
+    Schönramer India Pale Ale
+    Schönramer Grünhopfen Pils 
+    Schönramer Saphir Bock
+    Altbayrisch Dunkel
 
+- Brauerei Stierberg | Obertaufkirchen
+
+    Stierberger Eis Pils Monte Torro
+    Stierberger Hochzeitsbier
+
+- Unertl Weißbier | Haag
+
+    Unertl Weissbier
+    Unertl Ursud
+    Unertl Weissbier Bock
+
+- Weißbräu Unertl | Mühldorf am Inn
+
+    Unertl Bio-Dinkel Weisse
+    Unertl Oberland Export Weissbier
+    Steer Weiße
+    Steer Weißbierbock
+
+-  Bayrische Staatsbrauerei Weihenstephan | Freising 
+
+    Weihenstephan Hefeweissbier
+    Weihenstephan Hefeweissbier Dunkel
+    Weihenstephan Vitus
+    Weihenstephan Korbinian
 
