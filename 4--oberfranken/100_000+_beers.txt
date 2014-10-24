@@ -1,11 +1,6 @@
 
 
 __________________________________
--  Brauerei Gebr. Maisel | Bayreuth
-
-# NOTE: see beers in fichtelgebirge-bayreuth
-
-__________________________________
 - Kulmbacher Brauerei, Kulmbach
 
 EKU 28
@@ -61,3 +56,9 @@ ______________________________________________
 - Kaiserdom Specialitäten-Brauerei, Bamberg
 
 # NOTE: see beers in steigerwald-bamberg
+
+__________________________________
+-  Brauerei Gebr. Maisel | Bayreuth
+
+# NOTE: see beers in fichtelgebirge-bayreuth
+
