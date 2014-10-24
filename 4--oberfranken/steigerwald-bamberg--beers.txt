@@ -1,6 +1,16 @@
 
 == Bamberg ==
 
+______________________________________________
+- Kaiserdom Specialitäten-Brauerei | Bamberg
+
+Kaiserdom Dark Lager Bier, dunkles_lager
+Kaiserdom Hefeweißbier|Kaiserdom Hefeweißbier Naturtrüb,   weizen
+Kaiserdom Kellerbier,      kellerbier
+Kaiserdom Pilsener|Kaiserdom Pilsener Premium,  pils
+
+Kaiserdom Winterbock    ## Oktober bis März
+
 ______________________________
 - Ambräusianum | Bamberg
 
