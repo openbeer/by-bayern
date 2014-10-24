@@ -1,4 +1,13 @@
 
+## NOTE: see muenchen beers 
+##
+## - Augustiner Bräu |  München
+## - Hofbräu München | München
+## - Paulaner Brauerei | München
+## - Hacker-Pschorr Brauerei | München
+## - Spaten-Franziskaner-Bräu | München
+## - Löwenbräu | München
+
 
 ##############################
 ##### todo: add landkreis ??
