@@ -1,11 +1,16 @@
 
+##
+# todo:
+#   check comma in name e.g.     Oh, du mein Josef
+ # use | | to separator ?
+
 
 - Aktienbrauerei Kaufbeuren
 G    Dunkles Weizen Steingadener
 G    Bayrisch Export
 G    Hefeweizen Anno 25
 S    Aktien Hell
-S    Leichtes Weizen Kaiser Maximilian I.  
+S    Leichtes Weizen Kaiser Maximilian I.
 S    Kellerbier Hell
 B    Jubiläums Pils
 B    Spezialbier Edel
@@ -13,7 +18,7 @@ B    Spezialbier Edel
 - Allgäuer Brauhaus
 G    Grotwerg Bayerisch Dunkel
 G    Büble Edelweißbier
-G    Büble Bier Urbayrisch dunkel
+G    Büble Bier Urbayrisch Dunkel
 G    Büble Bier Edel
 G    Liebenweiss Hefeweissbier
 B    Büble Bier Bayrisch Hell
@@ -24,11 +29,11 @@ G    Pöllinger Weissbier
 S    Pöllinger Zwickl
 
 - Arcobräu Gräfliches Brauhaus
-G    Arcobräu Weissbier hell
-G    Arcobräu Schloss hell
+G    Arcobräu Weissbier Hell
+G    Arcobräu Schloss Hell
 G    Arcobräu Urfass
 G    Arcobräu Zwicklbier
-G    Arcobräu Weissbier dunkel
+G    Arcobräu Weissbier Dunkel
 S    Arcobräu Schloss Dunkel
 
 - AuerBräu
@@ -272,14 +277,16 @@ G      Landler Weisse
 G      Skt. Martinus Weizen Hefe hell   
 S      Skt. Martinus Zwickl Kellerbier
 
-- Müllerbräu Neuötting
+- Müllerbräu Pfaffenhofen
 G      Festus
 G      Altbayrisch Hell
 G      Müllerbräu Gold Export
+S      Müller Weißbier Premium
+S      Müller Weißbier Leicht
+
+- Müllerbräu Neuötting
 G      Müllerbräu Helle Weiße
 G      Müllerbräu Dunkle Weisse
-S      Müller Weißbier Premium   
-S      Müller Weißbier Leicht
 S      Neuöttinger Export   
 S      U-Unfiltriert
 
@@ -452,7 +459,7 @@ G      Burgkrone Premium Pilsener
 G      Burgkrone Hell
 G      Burgkrone Premium Pilsener
 G      Klosterhof Pilsener Premium
-G      Kaiserkrone extra 6,0
+G      Kaiserkrone extra 6.0
 G      Kaiserkrone Hefe-Weißbier
 G      Burgkrone Premium Pilsener
 G      Burgkrone Premium Pilsener
