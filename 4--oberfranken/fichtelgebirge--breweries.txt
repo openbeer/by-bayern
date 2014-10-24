@@ -10,12 +10,33 @@
 # --------------
 # -- Bayreuth
 
-Bayreuther Bierbrauerei, Hindenburgstraße 9 // 95445 Bayreuth
-Bayreuther Bio-Brauer, Hindenburgstraße 9 // 95445 Bayreuth
-Becher-Bräu, St. Nikolausstraße 25// 95445 Bayreuth
-Brauerei Gebr. Maisel, Hindenburgstraße 9 // 95445 Bayreuth
-Buschenschänke Lang, Jean-Paul-Straße 7 // 95444 Bayreuth
+[maisel]  
+  Brauerei Gebr. Maisel, 1887
+  Hindenburgstraße 9 // 95445 Bayreuth
+  www.maisel.com
 
+[bayreutherbierbrauerei]
+  Bayreuther Bierbrauerei,  1857
+  Hindenburgstraße 9 // 95445 Bayreuth
+  www.bayreuther-bierbrauerei.de
+
+[bayreutherbiobrauer]
+  Bayreuther Bio-Brauer, 2007
+  Hindenburgstraße 9 // 95445 Bayreuth
+  www.bayreuther-bio-brauer.de
+  
+[becherbraeu]  
+  Becher-Bräu, 1781
+  St. Nikolausstraße 25 // 95445 Bayreuth
+  www.becherbraeu.de
+  1_000 hl
+
+
+[baeckereilangde]              
+  Buschenschänke Bäckerei Lang, 1906        ### move to contract brewer (in lizenz hergestellt)
+  Jean-Paul-Straße 7 // 95444 Bayreuth
+  www.baeckerei-lang.de
+  40 hl
 
 # ------------------------
 # -- Landkreis Bayreuth
