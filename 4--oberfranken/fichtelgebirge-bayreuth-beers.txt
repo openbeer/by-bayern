@@ -1,4 +1,21 @@
 
+___________________________________
+- Brauerei Gebr. Maisel | Bayreuth
+
+Maisel's Weisse Original
+Maisel's Weisse Light
+Maisel's Weisse Dunkel
+Maisel's Weisse Hell
+Maisel's Weisse Kristall
+Maisel's Pilsner
+Edelhopfen Diät-Pilsner
+
+Stefan's Indian Ale
+Jeff's Bavarian Ale
+Marc's Chocolate Bock
+
+Bayreuther Bio Weisse
+
 _______________________________________
 - Bayreuther Bierbrauerei | Bayreuth
 
@@ -8,4 +25,25 @@ Bayreuther Aktien Zwick'l Kellerbier,  zwickl
 Bayreuther Aktien Pilsner
 Bayreuther Hell
 Bayreuther Hefe-Weissbier
+
+Bayreuther Bock   ## ab Ende Oktober
+
+________________________________________
+- Bayreuther Bio-Brauer | Bayreuth
+
+Bio-Weisse
+
+____________________________________
+- Becher-Bräu | Bayreuth
+
+Original
+Kräusen Pils
+Dunkel
+Festbier 205
+Spezial
+Naturtrübes Kräusen Pils
+
+Volksfestbier        ## Pfingsten
+Bockbier             ## ab Anfang Oktober
+Weihnachtsfestbier   ## ab Mitte November
 
