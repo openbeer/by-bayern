@@ -1,0 +1,17 @@
+
+###
+# breweries
+
+de-deutschland/by-bayern!/1--oberbayern/breweries_(l)
+de-deutschland/by-bayern!/1--oberbayern/breweries_(m)
+de-deutschland/by-bayern!/1--oberbayern/breweries
+de-deutschland/by-bayern!/1--oberbayern/brewpubs
+
+#############
+# beers
+
+de-deutschland/by-bayern!/1--oberbayern/beers--muenchen
+de-deutschland/by-bayern!/1--oberbayern/beers_l
+de-deutschland/by-bayern!/1--oberbayern/beers_m
+de-deutschland/by-bayern!/1--oberbayern/beers
+
