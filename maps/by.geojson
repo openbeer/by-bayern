@@ -1,0 +1,1825 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "Augustiner Bräu München",
+        "description": "80339 München // Landsberger Straße 31‎",
+        "city": "München",
+        "state": "Bayern",
+        "web": "www.augustiner-braeu.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "Hofbräu München",
+        "description": "81829 München // Hofbräuallee 1",
+        "city": "München",
+        "state": "Bayern",
+        "web": "www.hofbraeu-muenchen.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "Paulaner Brauerei",
+        "description": "81541 München // Hochstraße 75‎",
+        "city": "München",
+        "state": "Bayern",
+        "web": "www.paulaner.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "Hacker-Pschorr Brauerei",
+        "description": "81541 München // Hochstraße 75‎",
+        "city": "München",
+        "state": "Bayern",
+        "web": "www.hacker-pschorr.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "Spaten-Franziskaner-Bräu",
+        "description": "München //",
+        "city": "München",
+        "state": "Bayern",
+        "web": "www.spatenbraeu.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "Löwenbräu",
+        "description": "80335 München // Nymphenburger Straße 7‎",
+        "city": "München",
+        "state": "Bayern",
+        "web": "www.loewenbraeu.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2017070845831,
+          47.9719954
+        ]
+      },
+      "properties": {
+        "title": "Klosterbrauerei Andechs",
+        "description": "82346 Andechs // Bergstraße 2",
+        "city": "Andechs",
+        "state": "Bayern",
+        "web": "www.andechs.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9076579,
+          48.3064441
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Erdinger Weißbräu",
+        "description": "85435 Erding // Franz-Brombach-Straße 1",
+        "city": "Erding",
+        "state": "Bayern",
+        "web": "www.erdinger.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7439565,
+          48.4008273
+        ]
+      },
+      "properties": {
+        "title": "Gräfliches Hofbrauhaus Freising",
+        "description": "85356 Freising // Mainburger Straße 26",
+        "city": "Freising",
+        "state": "Bayern",
+        "web": "www.hofbrauhaus-freising.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7439565,
+          48.4008273
+        ]
+      },
+      "properties": {
+        "title": "Bayrische Staatsbrauerei Weihenstephan",
+        "description": "85354 Freising // Alte Akademie 2",
+        "city": "Freising",
+        "state": "Bayern",
+        "web": "www.weihenstephaner.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2382125,
+          48.1813797
+        ]
+      },
+      "properties": {
+        "title": "König Ludwig Brauerei",
+        "description": "82256 Fürstenfeldbruck // Augsburger Straße 41",
+        "city": "Fürstenfeldbruck",
+        "state": "Bayern",
+        "web": "www.koenig-ludwig-brauerei.com",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4250395,
+          48.7630165
+        ]
+      },
+      "properties": {
+        "title": "Herrnbräu",
+        "description": "85053 Ingolstadt // Manchinger Straße 95",
+        "city": "Ingolstadt",
+        "state": "Bayern",
+        "web": "www.herrnbraeu.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7528516,
+          47.7092159
+        ]
+      },
+      "properties": {
+        "title": "Herzoglich Bayerisches Brauhaus Tegernsee",
+        "description": "83684 Tegernsee // Schloßplatz 1",
+        "city": "Tegernsee",
+        "state": "Bayern",
+        "web": "www.braustuberl.de",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7787094,
+          47.9700185
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Aying",
+        "description": "Münchener Straße 21 // 85653 Aying",
+        "city": "Aying",
+        "state": "Bayern",
+        "web": "www.ayinger.de",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8760923,
+          47.7222676
+        ]
+      },
+      "properties": {
+        "title": "Alpenbrauerei Bürgerbräu",
+        "description": "Waaggasse 1-3 // 83435 Bad Reichenhall",
+        "city": "Bad Reichenhall",
+        "state": "Bayern",
+        "web": "www.buergerbraeu.com",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0021634,
+          47.63108
+        ]
+      },
+      "properties": {
+        "title": "Hofbräuhaus Berchtesgaden",
+        "description": "Bräuhausstraße 15 // 83471 Berchtesgaden",
+        "city": "Berchtesgaden",
+        "state": "Bayern",
+        "web": "www.hofbrauhaus-berchtesgaden.de",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7369573,
+          48.5585855
+        ]
+      },
+      "properties": {
+        "title": "Schloßbrauerei Au-Hallertau",
+        "description": "Schlossbräugasse 2\t// 84072 Au in der Hallertau",
+        "city": "Au in der Hallertau",
+        "state": "Bayern",
+        "web": "www.auerbier.de",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "CREW AleWerkstatt",
+        "description": "München //",
+        "city": "München",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "Forschungsbrauerei Jakob",
+        "description": "München //",
+        "city": "München",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5754815,
+          48.1372719
+        ]
+      },
+      "properties": {
+        "title": "Giesinger Bräu",
+        "description": "München //",
+        "city": "München",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4250395,
+          48.7630165
+        ]
+      },
+      "properties": {
+        "title": "Nordbräu",
+        "description": "Ingolstadt //",
+        "city": "Ingolstadt",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4250395,
+          48.7630165
+        ]
+      },
+      "properties": {
+        "title": "Schöffbräu",
+        "description": "Ingolstadt //",
+        "city": "Ingolstadt",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4250395,
+          48.7630165
+        ]
+      },
+      "properties": {
+        "title": "Schwalbenbräu",
+        "description": "Ingolstadt //",
+        "city": "Ingolstadt",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4250395,
+          48.7630165
+        ]
+      },
+      "properties": {
+        "title": "Westparkbräu/Brauhaus 1516",
+        "description": "Ingolstadt //",
+        "city": "Ingolstadt",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1159716764184,
+          47.8482721
+        ]
+      },
+      "properties": {
+        "title": "Auerbräu",
+        "description": "Rosenheim //",
+        "city": "Rosenheim",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1159716764184,
+          47.8482721
+        ]
+      },
+      "properties": {
+        "title": "Chiemgauer Brauhaus",
+        "description": "Rosenheim //",
+        "city": "Rosenheim",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1159716764184,
+          47.8482721
+        ]
+      },
+      "properties": {
+        "title": "Flötzinger Bräu (Privatbrauerei Franz Steegmüller)",
+        "description": "Rosenheim //",
+        "city": "Rosenheim",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2765095,
+          47.9500426
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Rothmoos A.Kirnberger",
+        "description": "Halfing //",
+        "city": "Halfing",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9146148,
+          47.8828514
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Starkmeth",
+        "description": "Bruckmühl //",
+        "city": "Bruckmühl",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.987852,
+          47.8994924
+        ]
+      },
+      "properties": {
+        "title": "Schlossbrauerei Maxlrain Leo Graf von Hohenthal und Bergen",
+        "description": "Maxlrain //",
+        "city": "Maxlrain",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6003582,
+          48.2126986
+        ]
+      },
+      "properties": {
+        "title": "Bräu im Moos",
+        "description": "Tüßling //",
+        "city": "Tüßling",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.72391,
+          48.2933938
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Berger",
+        "description": "Reischach //",
+        "city": "Reischach",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6167,
+          48.1667
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Leidmann",
+        "description": "Unterneukirchen //",
+        "city": "Unterneukirchen",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6757914,
+          48.2268085
+        ]
+      },
+      "properties": {
+        "title": "Graminger Weißbräu",
+        "description": "Altötting //",
+        "city": "Altötting",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5185333,
+          48.6046333
+        ]
+      },
+      "properties": {
+        "title": "Müllerbräu",
+        "description": "Pfaffenhofen an der Ilm //",
+        "city": "Pfaffenhofen an der Ilm",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.55831,
+          47.7612028
+        ]
+      },
+      "properties": {
+        "title": "Tölzer Mühlfeldbräu",
+        "description": "83646 Bad Tölz // Bahnhofstraße 4",
+        "city": "Bad Tölz",
+        "state": "Bayern",
+        "web": "www.tmb.de",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4119565,
+          47.7204732
+        ]
+      },
+      "properties": {
+        "title": "Wampenbräu",
+        "description": "83673 Bichl // Bachstr. 2",
+        "city": "Bichl",
+        "state": "Bayern",
+        "web": "www.wampenbraeu.de",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6728042,
+          47.7725619
+        ]
+      },
+      "properties": {
+        "title": "Hoppebräu",
+        "description": "83666 Waakirchen // Edelweißstr. 21",
+        "city": "Waakirchen",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9781408,
+          47.8378039
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Gasthof Weißbräu",
+        "description": "Freilassing //",
+        "city": "Freilassing",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8218357,
+          47.849038
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei M. C. Wieninger",
+        "description": "Teisendorf //",
+        "city": "Teisendorf",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2568734,
+          48.3875941
+        ]
+      },
+      "properties": {
+        "title": "Kapplerbräu Hans Wiedemann",
+        "description": "Altomünster //",
+        "city": "Altomünster",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2568734,
+          48.3875941
+        ]
+      },
+      "properties": {
+        "title": "Maierbräu Altomünster",
+        "description": "Altomünster //",
+        "city": "Altomünster",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5545047,
+          48.3157263
+        ]
+      },
+      "properties": {
+        "title": "Schlossbrauerei Haimhausen",
+        "description": "Haimhausen //",
+        "city": "Haimhausen",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2005519,
+          48.3098033
+        ]
+      },
+      "properties": {
+        "title": "Schlossbrauerei Odelzhausen",
+        "description": "Odelzhausen //",
+        "city": "Odelzhausen",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8656683,
+          47.9880975
+        ]
+      },
+      "properties": {
+        "title": "Herrmannsdorfer Schweinsbräu (Naturtrübbrauerei)",
+        "description": "Glonn //",
+        "city": "Glonn",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.867376,
+          48.1914326
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Schweiger",
+        "description": "Markt Schwaben //",
+        "city": "Markt Schwaben",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9661337,
+          48.0502855
+        ]
+      },
+      "properties": {
+        "title": "Wildbräu Grafing",
+        "description": "Grafing bei München //",
+        "city": "Grafing bei München",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2106102,
+          48.996666
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Fritz Gutmann",
+        "description": "Titting //",
+        "city": "Titting",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6104616,
+          48.9021829
+        ]
+      },
+      "properties": {
+        "title": "de Bassus Schlossbrauerei zu Sandersdorf",
+        "description": "Sandersdorf //",
+        "city": "Sandersdorf",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1872697,
+          48.8928801
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Hofmühl",
+        "description": "Eichstätt //",
+        "city": "Eichstätt",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7880442,
+          48.3529554
+        ]
+      },
+      "properties": {
+        "title": "Airbräu",
+        "description": "Flughafen München //",
+        "city": "Flughafen München",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9076579,
+          48.3064441
+        ]
+      },
+      "properties": {
+        "title": "Stiftungsbrauerei Fischer",
+        "description": "Erding //",
+        "city": "Erding",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1530097,
+          48.2746357
+        ]
+      },
+      "properties": {
+        "title": "Bräu z'Loh",
+        "description": "Dorfen //",
+        "city": "Dorfen",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1530097,
+          48.2746357
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Bachmayer",
+        "description": "Dorfen //",
+        "city": "Dorfen",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1344678,
+          48.2192116
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Bauer",
+        "description": "Sankt Wolfgang //",
+        "city": "Sankt Wolfgang",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8908175,
+          48.358828
+        ]
+      },
+      "properties": {
+        "title": "Eittinger Fischerbräu",
+        "description": "Eitting //",
+        "city": "Eitting",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1311312,
+          48.3441996
+        ]
+      },
+      "properties": {
+        "title": "Guts- und Brauereigenossenschaft Taufkirchen",
+        "description": "Taufkirchen (Vils) //",
+        "city": "Taufkirchen (Vils)",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0041512617582,
+          48.3815795
+        ]
+      },
+      "properties": {
+        "title": "Reiter Bräu",
+        "description": "Wartenberg //",
+        "city": "Wartenberg",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2572502,
+          48.2159693
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei J. Sedlmayr",
+        "description": "Maisach //",
+        "city": "Maisach",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0673611,
+          47.5966927
+        ]
+      },
+      "properties": {
+        "title": "Ammergauer Maxbräu",
+        "description": "Oberammergau //",
+        "city": "Oberammergau",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2011903,
+          47.6778816
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Griesbräu zu Murnau",
+        "description": "Murnau am Staffelsee //",
+        "city": "Murnau am Staffelsee",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2011903,
+          47.6778816
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Karg",
+        "description": "Murnau //",
+        "city": "Murnau",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2655684,
+          47.4429543
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Mittenwald Johann Neuner",
+        "description": "Mittenwald //",
+        "city": "Mittenwald",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0939733,
+          47.5692548
+        ]
+      },
+      "properties": {
+        "title": "Ettaler Klosterbrauerei",
+        "description": "Ettal //",
+        "city": "Ettal",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7778407,
+          48.046525
+        ]
+      },
+      "properties": {
+        "title": "Brauereigasthaus Holzhausen",
+        "description": "Holzhausen bei Buchloe //",
+        "city": "Holzhausen bei Buchloe",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8335417,
+          47.790025
+        ]
+      },
+      "properties": {
+        "title": "Weißbierbrauerei Hopf",
+        "description": "83714 Miesbach // Schützenstraße 8+10",
+        "city": "Miesbach",
+        "state": "Bayern",
+        "web": "www.hopfweisse.de",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7999821,
+          47.8592018
+        ]
+      },
+      "properties": {
+        "title": "Dietl Bräu",
+        "description": "Weyarn //",
+        "city": "Weyarn",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7004553,
+          47.8831496
+        ]
+      },
+      "properties": {
+        "title": "Holzkirchner Oberbräu",
+        "description": "Holzkirchen //",
+        "city": "Holzkirchen",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1783011,
+          48.1611735
+        ]
+      },
+      "properties": {
+        "title": "Unertl Weißbier",
+        "description": "83527 Haag in Oberbayern // Lerchenberger Straße 6",
+        "city": "Haag in Oberbayern",
+        "state": "Bayern",
+        "web": "www.unertl.de",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4608309,
+          48.6160194
+        ]
+      },
+      "properties": {
+        "title": "Bayrische Graf zu Toerring-Jettenbach-Brauereien",
+        "description": "Pörnbach //",
+        "city": "Pörnbach",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2071839,
+          47.9243998
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Ametsbichler",
+        "description": "Aschau //",
+        "city": "Aschau",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5769979,
+          48.2780939
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Erharting Jakob Röhrl",
+        "description": "Erharting //",
+        "city": "Erharting",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2796519,
+          48.2622104
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Stierberg",
+        "description": "Obertaufkirchen //",
+        "city": "Obertaufkirchen",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5252449,
+          48.240507
+        ]
+      },
+      "properties": {
+        "title": "Weißbräu Unertl",
+        "description": "Mühldorf am Inn //",
+        "city": "Mühldorf am Inn",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5252449,
+          48.240507
+        ]
+      },
+      "properties": {
+        "title": "Zum Steer",
+        "description": "Mühldorf am Inn //",
+        "city": "Mühldorf am Inn",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1795268,
+          48.7371951
+        ]
+      },
+      "properties": {
+        "title": "Juliusbräu",
+        "description": "Neuburg an der Donau //",
+        "city": "Neuburg an der Donau",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5185333,
+          48.6046333
+        ]
+      },
+      "properties": {
+        "title": "Urbanusbräu - Brauhaus Pfaffenhofen",
+        "description": "Pfaffenhofen an der Ilm //",
+        "city": "Pfaffenhofen an der Ilm",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6234115,
+          48.6054308
+        ]
+      },
+      "properties": {
+        "title": "Bürgerbräu Wolnzach",
+        "description": "Wolnzach //",
+        "city": "Wolnzach",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4555619,
+          48.502062
+        ]
+      },
+      "properties": {
+        "title": "Klosterbrauerei Scheyern",
+        "description": "Scheyern //",
+        "city": "Scheyern",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6423403,
+          47.8701474
+        ]
+      },
+      "properties": {
+        "title": "Brauhaus Jacob Wochinger & Sohn",
+        "description": "Traunstein //",
+        "city": "Traunstein",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6423403,
+          47.8701474
+        ]
+      },
+      "properties": {
+        "title": "Hofbräuhaus Traunstein Josef Sailer",
+        "description": "Traunstein //",
+        "city": "Traunstein",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6423403,
+          47.8701474
+        ]
+      },
+      "properties": {
+        "title": "Maximiliansbräu GmbH",
+        "description": "Traunstein //",
+        "city": "Traunstein",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6423403,
+          47.8701474
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Schnitzlbaumer",
+        "description": "Traunstein //",
+        "city": "Traunstein",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5004194,
+          47.9584444
+        ]
+      },
+      "properties": {
+        "title": "Camba Bavaria",
+        "description": "Truchtlaching //",
+        "city": "Truchtlaching",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3686999,
+          48.0702334
+        ]
+      },
+      "properties": {
+        "title": "Baderbräu",
+        "description": "Schnaitsee //",
+        "city": "Schnaitsee",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5360462,
+          48.0024333
+        ]
+      },
+      "properties": {
+        "title": "Klosterbrauerei Baumburg",
+        "description": "Altenmarkt an der Alz //",
+        "city": "Altenmarkt an der Alz",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5472652,
+          47.9832438
+        ]
+      },
+      "properties": {
+        "title": "Schlossbrauerei Stein Wiskott",
+        "description": "Stein an der Traun //",
+        "city": "Stein an der Traun",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.823411,
+          48.0007053
+        ]
+      },
+      "properties": {
+        "title": "Stadler-Bräu",
+        "description": "Fridolfing //",
+        "city": "Fridolfing",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5705051,
+          48.0790001
+        ]
+      },
+      "properties": {
+        "title": "Weissbräu Schwendl",
+        "description": "Tacherting //",
+        "city": "Tacherting",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1416355,
+          47.8395072
+        ]
+      },
+      "properties": {
+        "title": "Dachsbräu",
+        "description": "Weilheim in Oberbayern //",
+        "city": "Weilheim in Oberbayern",
+        "state": "Bayern",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8726751,
+          47.8245546
+        ]
+      },
+      "properties": {
+        "title": "Maxbrauerei Biermanufaktur",
+        "description": "86972 Altenstadt // St.-Lorenz-Str. 14",
+        "city": "Altenstadt",
+        "state": "Bayern",
+        "web": "www.maxbrauerei.de",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    }
+  ]
+}
