@@ -3,16 +3,13 @@
 - [Oberbayern [Upper Bavaria]](1--oberbayern) - München, Ingolstadt, Rosenheim, Freising
 - [Niederbayern [Lower Bavaria]](2--niederbayern) - Landshut, Passau, Straubing, Deggendorf
 - [Oberpfalz [Upper Palatinate]](3--oberpfalz) - Regensburg, Amberg, Weiden, Neumarkt
-- [Oberfranken [Upper Franconia]](4--oberfranken) - Bayreuth, Bamberg, Hof, Coburg
-    - Coburger Land -
-    - Fichtelgebirge   - Bayreuth
-    - Fraenkische Schweiz
-    - Frankenwald
-    - Hassberge
-    - Steigerwald  - Bamberg
-- [Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
-- [Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
-- [Bayr.Schwaben/Allgäu [Swabia]](7--schwaben) Augsburg, Kempten, Neu-Ulm, Kaufbeuren
+- [Bayr.Schwaben/Allgäu [Swabia]](4--schwaben) Augsburg, Kempten, Neu-Ulm, Kaufbeuren
+
+Note: Oberfranken [Upper Franconia],
+Mittelfranken [Middle Franconia],
+Unterfranken [Lower Franconia]
+get listed in its own [Franken [Franconia]](https://github.com/openbeer/franken) repo.
+
 
 
 Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Bavaria, Germany) / Europe.
@@ -51,7 +48,6 @@ Weihenstephaner Festbier,               5.8%, 13.3°, festbier|oktoberfest
 
 - [Weltenburg Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/5918689157310682177) - Klosterbrauerei Weltenburg
 - [Passau Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/6032660283182625281) - Weissbräu Andorfer, Brauerei Hacklberg
-- [Kulmbach, Bamberg Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/5918686981244909281) - Kulmbacher Kommunbräu, Kulmbacher Bierwoche, Brauerei Spezial, Schlenkerla
 
 
 ## Questions? Comments?

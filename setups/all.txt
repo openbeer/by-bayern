@@ -7,6 +7,22 @@ de-deutschland/3--by-bayern!/1--oberbayern/breweries_(m)
 de-deutschland/3--by-bayern!/1--oberbayern/breweries
 de-deutschland/3--by-bayern!/1--oberbayern/brewpubs
 
+de-deutschland/3--by-bayern!/2--niederbayern/breweries
+de-deutschland/3--by-bayern!/2--niederbayern/breweries_100_000+
+de-deutschland/3--by-bayern!/2--niederbayern/breweries_20_000+
+de-deutschland/3--by-bayern!/2--niederbayern/brewpubs
+
+de-deutschland/3--by-bayern!/3--oberpfalz/breweries
+de-deutschland/3--by-bayern!/3--oberpfalz/breweries_100_000+
+de-deutschland/3--by-bayern!/3--oberpfalz/breweries_20_000+
+de-deutschland/3--by-bayern!/3--oberpfalz/brewpubs
+
+de-deutschland/3--by-bayern!/4--schwaben/breweries
+de-deutschland/3--by-bayern!/4--schwaben/breweries_100_000+
+de-deutschland/3--by-bayern!/4--schwaben/breweries_20_000+
+de-deutschland/3--by-bayern!/4--schwaben/brewpubs
+
+
 #############
 # beers
 
@@ -14,4 +30,12 @@ de-deutschland/3--by-bayern!/1--oberbayern/beers--muenchen
 de-deutschland/3--by-bayern!/1--oberbayern/beers_l
 de-deutschland/3--by-bayern!/1--oberbayern/beers_m
 de-deutschland/3--by-bayern!/1--oberbayern/beers
+
+de-deutschland/3--by-bayern!/2--niederbayern/beers
+de-deutschland/3--by-bayern!/2--niederbayern/beers_100_000+
+
+de-deutschland/3--by-bayern!/3--oberpfalz/beers
+de-deutschland/3--by-bayern!/3--oberpfalz/beers_100_000+
+
+de-deutschland/3--by-bayern!/4--schwaben/beers_100_000+
 
