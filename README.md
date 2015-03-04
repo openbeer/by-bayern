@@ -1,7 +1,7 @@
-# Beers, Breweries n Brewpubs in Bayern (BY), Deutschland / Baviria, Germany
+# Beers, Breweries n Brewpubs in Bayern (BY), Deutschland / Bavaria, Germany
 
-- [Oberbayern [Upper Baviria]](1--oberbayern) - München, Ingolstadt, Rosenheim, Freising
-- [Niederbayern [Lower Baviria]](2--niederbayern) - Landshut, Passau, Straubing, Deggendorf
+- [Oberbayern [Upper Bavaria]](1--oberbayern) - München, Ingolstadt, Rosenheim, Freising
+- [Niederbayern [Lower Bavaria]](2--niederbayern) - Landshut, Passau, Straubing, Deggendorf
 - [Oberpfalz [Upper Palatinate]](3--oberpfalz) - Regensburg, Amberg, Weiden, Neumarkt
 - [Oberfranken [Upper Franconia]](4--oberfranken) - Bayreuth, Bamberg, Hof, Coburg
     - Coburger Land -
@@ -15,7 +15,7 @@
 - [Bayr.Schwaben/Allgäu [Swabia]](7--schwaben) Augsburg, Kempten, Neu-Ulm, Kaufbeuren
 
 
-Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Baviria, Germany) / Europe.
+Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Bavaria, Germany) / Europe.
 Example:
 
 ~~~
