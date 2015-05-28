@@ -5,15 +5,15 @@
 Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Bavaria, Germany) / Europe.
 
 <!--
-- [Oberbayern [Upper Bavaria]](1--oberbayern) - München, Ingolstadt, Rosenheim, Freising
-- [Oberfranken [Upper Franconia]]
+- [(OB) - Oberbayern [Upper Bavaria]](1--oberbayern) - München, Ingolstadt, Rosenheim, Freising
+- [(OFR) - Oberfranken [Upper Franconia]]
 -->
 
-- [Niederbayern [Lower Bavaria]](2--niederbayern) - Landshut, Passau, Straubing, Deggendorf
-- [Oberpfalz [Upper Palatinate]](3--oberpfalz) - Regensburg, Amberg, Weiden, Neumarkt
-- [Bayr. Schwaben/Allgäu [Swabia]](4--schwaben) - Augsburg, Kempten, Neu-Ulm, Kaufbeuren
-- [Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
-- [Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
+- [(NB) - Niederbayern [Lower Bavaria]](2--niederbayern) - Landshut, Passau, Straubing, Deggendorf
+- [(OPF) - Oberpfalz [Upper Palatinate]](3--oberpfalz) - Regensburg, Amberg, Weiden, Neumarkt
+- [(SCHW) - Bayr. Schwaben/Allgäu [Swabia]](4--schwaben) - Augsburg, Kempten, Neu-Ulm, Kaufbeuren
+- [(MFR) - Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
+- [(UFR) - Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
 
 
 **Note**:
