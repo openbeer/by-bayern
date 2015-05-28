@@ -12,7 +12,7 @@
 - [Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/ Kitzingen
 
 
-Note:
+**Note**:
 [München & Oberbayern [Munich & Upper Bavaria]](https://github.com/openbeer/oberbayern) and 
 [Bamberg & Oberfranken [Bamberg & Upper Franconia]](https://github.com/openbeer/oberfranken)
 get listed in its own repo.
