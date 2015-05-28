@@ -72,7 +72,8 @@ Privatbrauerei Friedrich Düll, Volkach-Krautheim //
 Brauerei Wolf, Rüdenhausen // 
 Privatbrauerei Kesselring, Marktsteft // 
 Privatbrauerei Friedrich Düll, Krautheim  //  # Krautheim ist ein Ortsteil der Stadt Volkach
-Seinsheimer Kellerbräu, Seinsheim // 
+
+Seinsheimer Kellerbräu, Oberes Tor 1 // 97342 Seinsheim
 
 
 # ---------------------------
