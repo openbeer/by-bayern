@@ -68,7 +68,9 @@ Brauerei Heller, Herzogenaurach //
 Brauerei Rittmayer, Adelsdorf-Aisch // 
 Brauerei Sauer, Röttenbach (bei Erlangen) // 
 Brauhaus Höchstadt, Höchstadt // 
-Zum Löwenbräu, Adelsdorf-Neuhaus // 
+
+Brauerei Gasthof Hotel Zum Löwenbräu|Zum Löwenbräu, Neuhauser Hauptstraße 3 // 91325 Adelsdorf/Neuhaus   ## Adelsdorf-Neuhaus // 
+
 
 # --------------------
 # -- Schwabach
