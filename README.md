@@ -7,6 +7,8 @@ Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Ba
 - Altbayern
    - [(OB) - Oberbayern [Upper Bavaria]](https://github.com/openbeer/oberbayern) - München, Ingolstadt, Rosenheim, Freising
       - Oberland
+      - Chiemgau
+      - Hallertau
    - [(NB) - Niederbayern [Lower Bavaria]](2--niederbayern) - Landshut, Passau, Straubing, Deggendorf
    - [(OPF) - Oberpfalz [Upper Palatinate]](3--oberpfalz) - Regensburg, Amberg, Weiden, Neumarkt
 - Franken
