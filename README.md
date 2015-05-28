@@ -1,6 +1,6 @@
-[Deutschland](https://github.com/openbeer/de-deutschland) / [Germany](https://github.com/openbeer/de-deutschland)
+[Deutschland](https://github.com/openbeer/de-deutschland) • [Germany](https://github.com/openbeer/de-deutschland)
 
-# Bayern (BY) / Bavaria 
+# Bayern (BY) • Bavaria 
 
 Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Bavaria, Germany) / Europe.
 Example:
