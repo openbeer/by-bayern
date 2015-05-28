@@ -10,7 +10,7 @@ Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Ba
 - [(SCHW) - Bayr. Schwaben/Allgäu [Swabia]](4--schwaben) - Augsburg, Kempten, Neu-Ulm, Kaufbeuren
 - [(MFR) - Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
 - [(UFR) - Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
-- [(OFR) - Oberfranken [Upper Franconia]]((https://github.com/openbeer/oberfranken)) -  Bamberg, Bayreuth, Hof, Coburg, Kulmbach
+- [(OFR) - Oberfranken [Upper Franconia]](https://github.com/openbeer/oberfranken) -  Bamberg, Bayreuth, Hof, Coburg, Kulmbach
 
 
 **Note**:
@@ -22,7 +22,7 @@ Example:
 
 ~~~
 ________________________________________
--  Klosterbrauerei Weltenburg, Kelheim
+-  Klosterbrauerei Weltenburg | Kelheim
 
 Weltenburger Kloster Anno 1050, maerzen|festbier
 Weltenburger Kloster Asam Bock, dunkler_doppelbock
@@ -35,22 +35,20 @@ Weltenburger Kloster Urtyp Hell, helles
 Weltenburger Kloster Winter-Traum, spezial
 
 ___________________________________________________
-- Weisses Bräuhaus G. Schneider & Sohn, Kelheim
+- Brauerei Hacklberg | Passau
 
-Schneider Weisse, 5.4%, 12.8°
-
-Schneider Weisse Aventinus Weizen Eisbock, weizendoppelbock
-Schneider Weisse Tap 1 Mein Blondes, weizen
-Schneider Weisse Tap 11 Unsere Leichte Weisse, weizen
-Schneider Weisse Tap 2 Mein Kristall, weizen
-Schneider Weisse Tap 4 Mein Grünes, weizen
-Schneider Weisse Tap 5 Meine Hopfenweisse, weizendoppelbock
-Schneider Weisse Tap 6 Unser Aventinus, weizendoppelbock
-Schneider Weisse Tap 7 Unser Original, weizen
-Schneider Weisse TapX Mein Cuvée Barrique, weizendoppelbock
-Schneider Weisse TapX Mein Nelson Sauvin, weizenbock
-Schneider Weisse TapX Meine Porter Weisse, porter_weissbier
-Schneider Weisse TapX Meine Sommer Weisse, weizen
+Hacklberg Dult Festbier,  maerzen|festbier
+Hacklberg Dunkel,         dunkel
+Hacklberg Dunkel Spezial
+Hacklberg Edelhell Export, export
+Hacklberg eX!
+Hacklberg Festbier,   maerzen|festbier
+Hacklberg Hochfürst Pilsener, pils
+Hacklberg Humorator, doppelbock
+Hacklberg Jakobi Weißbier Dunkel, weizen
+Hacklberg Jakobi Weißbier Hell, weizen
+Hacklberg Jakobi Weißbier Leicht, weizen
+Hacklberg Jubiläumsbier
 
 ...
 ~~~
