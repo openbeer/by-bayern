@@ -13,8 +13,9 @@ Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Ba
    - [(OFR) - Oberfranken [Upper Franconia]](https://github.com/openbeer/oberfranken) -  Bamberg, Bayreuth, Hof, Coburg, Kulmbach
   - [(MFR) - Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
   - [(UFR) - Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
-- [(SCHW) - Bayr. Schwaben [Swabia]](4--schwaben) - Augsburg, Kempten, Neu-Ulm, Kaufbeuren
-    - Allgäu
+- Bayr. Schwaben
+   - [(SCHW) - Bayr. Schwaben [Swabia]](4--schwaben) - Augsburg, Kempten, Neu-Ulm, Kaufbeuren
+      - Allgäu
 
 
 **Note**:
