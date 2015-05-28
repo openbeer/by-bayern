@@ -4,13 +4,15 @@
 
 Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Bavaria, Germany) / Europe.
 
-- [(OB) - Oberbayern [Upper Bavaria]](https://github.com/openbeer/oberbayern) - München, Ingolstadt, Rosenheim, Freising
-- [(NB) - Niederbayern [Lower Bavaria]](2--niederbayern) - Landshut, Passau, Straubing, Deggendorf
-- [(OPF) - Oberpfalz [Upper Palatinate]](3--oberpfalz) - Regensburg, Amberg, Weiden, Neumarkt
+- Altbayern
+   - [(OB) - Oberbayern [Upper Bavaria]](https://github.com/openbeer/oberbayern) - München, Ingolstadt, Rosenheim, Freising
+   - [(NB) - Niederbayern [Lower Bavaria]](2--niederbayern) - Landshut, Passau, Straubing, Deggendorf
+   - [(OPF) - Oberpfalz [Upper Palatinate]](3--oberpfalz) - Regensburg, Amberg, Weiden, Neumarkt
+- Franken
+   - [(OFR) - Oberfranken [Upper Franconia]](https://github.com/openbeer/oberfranken) -  Bamberg, Bayreuth, Hof, Coburg, Kulmbach
+  - [(MFR) - Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
+  - [(UFR) - Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
 - [(SCHW) - Bayr. Schwaben/Allgäu [Swabia]](4--schwaben) - Augsburg, Kempten, Neu-Ulm, Kaufbeuren
-- [(MFR) - Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
-- [(UFR) - Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
-- [(OFR) - Oberfranken [Upper Franconia]](https://github.com/openbeer/oberfranken) -  Bamberg, Bayreuth, Hof, Coburg, Kulmbach
 
 
 **Note**:
