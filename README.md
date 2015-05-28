@@ -1,4 +1,13 @@
-# Beers, Breweries n Brewpubs in Bayern (BY), Deutschland / Bavaria, Germany
+[Deutschland](https://github.com/openbeer/de-deutschland) / [Germany](https://github.com/openbeer/de-deutschland)
+
+# Bayern (BY) / Bavaria 
+
+Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Bavaria, Germany) / Europe.
+Example:
+
+~~~
+to be done
+~~~
 
 <!--
 - [Oberbayern [Upper Bavaria]](1--oberbayern) - München, Ingolstadt, Rosenheim, Freising
@@ -11,19 +20,10 @@
 - [Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
 - [Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/ Kitzingen
 
-
 **Note**:
 [München & Oberbayern [Munich & Upper Bavaria]](https://github.com/openbeer/oberbayern) and 
 [Bamberg & Oberfranken [Bamberg & Upper Franconia]](https://github.com/openbeer/oberfranken)
 get listed in its own repo.
-
-
-Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Bavaria, Germany) / Europe.
-Example:
-
-~~~
-to be done
-~~~
 
 
 ## Real World Slideshow (Brewery n Beer Fotos)
