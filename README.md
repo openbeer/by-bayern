@@ -16,7 +16,7 @@ Free open public domain beer, brewery n brewpub data for Bayern, Deutschland (Ba
   - [(MFR) - Mittelfranken [Middle Franconia]](5--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
   - [(UFR) - Unterfranken [Lower Franconia]](6--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
 - Schwaben
-   - [(SCHW) - Bayr. Schwaben [Swabia]](4--schwaben) - Augsburg, Kempten, Neu-Ulm, Kaufbeuren
+   - [(SCHW) - Bayr. Schwaben [Swabia]](7--schwaben) - Augsburg, Kempten, Neu-Ulm, Kaufbeuren
       - Allgäu
 
 
