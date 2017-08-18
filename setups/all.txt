@@ -8,26 +8,26 @@
 # de-deutschland/by-bayern!/1--oberbayern/brewpubs
 
 de-deutschland/by-bayern!/2--niederbayern/breweries
-de-deutschland/by-bayern!/2--niederbayern/breweries_100_000+
-de-deutschland/by-bayern!/2--niederbayern/breweries_20_000+
+de-deutschland/by-bayern!/2--niederbayern/breweries_(l)
+de-deutschland/by-bayern!/2--niederbayern/breweries_(m)
 de-deutschland/by-bayern!/2--niederbayern/brewpubs
 
 de-deutschland/by-bayern!/3--oberpfalz/breweries
-de-deutschland/by-bayern!/3--oberpfalz/breweries_100_000+
-de-deutschland/by-bayern!/3--oberpfalz/breweries_20_000+
+de-deutschland/by-bayern!/3--oberpfalz/breweries_(l)
+de-deutschland/by-bayern!/3--oberpfalz/breweries_(m)
 de-deutschland/by-bayern!/3--oberpfalz/brewpubs
 
 de-deutschland/by-bayern!/5--mittelfranken/breweries
-de-deutschland/by-bayern!/5--mittelfranken/breweries_20_000+
+de-deutschland/by-bayern!/5--mittelfranken/breweries_(m)
 
 de-deutschland/by-bayern!/6--unterfranken/breweries
-de-deutschland/by-bayern!/6--unterfranken/breweries_100_000+
-de-deutschland/by-bayern!/6--unterfranken/breweries_20_000+
+de-deutschland/by-bayern!/6--unterfranken/breweries_(l)
+de-deutschland/by-bayern!/6--unterfranken/breweries_(m)
 de-deutschland/by-bayern!/6--unterfranken/brewpubs
 
 de-deutschland/by-bayern!/7--schwaben/breweries
-de-deutschland/by-bayern!/7--schwaben/breweries_100_000+
-de-deutschland/by-bayern!/7--schwaben/breweries_20_000+
+de-deutschland/by-bayern!/7--schwaben/breweries_(l)
+de-deutschland/by-bayern!/7--schwaben/breweries_(m)
 de-deutschland/by-bayern!/7--schwaben/brewpubs
 
 
